@@ -21,7 +21,7 @@ Ao mesmo tempo, estou sempre estudando e lapidando meu lado técnico — porque 
 ### 📫 Vamos nos conectar?
 
 - ✉️ E-mail: **adriellazaro23@gmail.com**  
-- 🔗 LinkedIn: **linkedin.com/in/adriel-lazaro)**
+- 🔗 LinkedIn: **linkedin.com/in/adriel-lazaro**
 
 ---
 
