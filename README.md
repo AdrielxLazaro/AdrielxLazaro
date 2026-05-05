@@ -1,40 +1,19 @@
-## 🚀 Sobre mim
+Desenvolvedor Full Stack em formação com foco em Python e React.
 
-Olá! Sou o Adriel, um entusiasta da tecnologia apaixonado por transformar ideias em código.  
-Sempre buscando aprender algo novo, meu foco atual está no **desenvolvimento front-end** e em projetos com **Python**.
+Tenho experiência prática na criação de aplicações web, incluindo:
+• Desenvolvimento de APIs com Python
+• Manipulação de banco de dados (SQLite/SQL)
+• Criação de interfaces com React
+• Estruturação de sistemas CRUD completos
 
-Sou um desenvolvedor em formação, apaixonado por transformar ideias em **experiências digitais**.  
-Aqui no GitHub, você vai encontrar meus projetos onde pratico e evoluo com as tecnologias que mais curto.
+Atualmente estou focado em evoluir como desenvolvedor backend/full stack e construir projetos reais que simulem ambientes profissionais.
 
-### 💻 Stack atual:
-**HTML | CSS | JavaScript | Python**
+Busco minha primeira oportunidade na área de tecnologia para aplicar na prática meus conhecimentos e crescer como desenvolvedor.
 
-Gosto de construir interfaces com personalidade, explorar animações e deixar cada projeto com uma marca única.  
-Ao mesmo tempo, estou sempre estudando e lapidando meu lado técnico — porque **código também é arte**.
+📌 Tecnologias:
+Python | React | SQL | Git | APIs REST
 
----
+📌 Em evolução:
+Django | Node.js
 
-### 🚀 Criando. Aprendendo. Evoluindo.
-
----
-
-### 📫 Vamos nos conectar?
-
-- ✉️ E-mail: **adriellazaro23@gmail.com**  
-- 🔗 LinkedIn: **linkedin.com/in/adriel-lazaro**
-
----
-
-### 💬 Frases que me inspiram
-
-> _“Mantenha-se faminto, mantenha-se tolo.”_  
-> — **Steve Jobs**
-
-> _“Tenha coragem de seguir seu coração e sua intuição. Eles de alguma forma já sabem o que você realmente quer se tornar.”_  
-> — **Steve Jobs**
-
-> _“Seu tempo é limitado, então não o desperdice vivendo a vida de outra pessoa.”_  
-> — **Steve Jobs**
-
-> _“A única maneira de fazer um ótimo trabalho é amar o que você faz.”_  
-> — **Steve Jobs**
+Aberto a oportunidades como Desenvolvedor Júnior ou Estágio em TI.
